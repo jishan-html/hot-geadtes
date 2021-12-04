@@ -1,0 +1,56 @@
+.carousel{
+    background-color: #f8d5d1;
+    margin-bottom: 100px;
+    border-radius: 5px;
+}
+.carousel-item{
+    padding: 90px 20px 40px 40px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.some{
+    text-align: center;
+}
+.name{
+    text-align: center;
+}
+.name-div{
+    display: flex;
+    justify-content: space-between;
+}
+.class2{
+    color: orange;
+}
+
+
+.bye-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.cl{
+    background-color: black;
+    color: #fff;
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.price{
+    text-align: center;
+}
+.bt{
+    text-align: center;
+}
+.smartphone{
+    margin-bottom: 100px
+}
+.laptop{
+    margin-top: 10px;
+}
+
