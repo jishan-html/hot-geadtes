@@ -1,6 +1,6 @@
-.carousel{
-    background-color: #f8d5d1;
-    margin-bottom: 100px;
+.carousel{ 
+    background-color: #FF136F;
+    margin-top: 25px;
     border-radius: 5px;
 }
 .carousel-item{
@@ -19,7 +19,9 @@
 .name-div{
     display: flex;
     justify-content: space-between;
+    margin-top: 100px;
 }
+
 .class2{
     color: orange;
 }
@@ -47,10 +49,15 @@
 .bt{
     text-align: center;
 }
-.smartphone{
-    margin-bottom: 100px
+#phone{
+    margin-top: 100px;
 }
 .laptop{
     margin-top: 10px;
 }
-
+.orange{
+    background-color: #FF136F;
+    margin-top: 100px;
+    padding: 30px;
+    border-radius: 10px;
+}
